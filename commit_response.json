@@ -1,0 +1,31 @@
+{
+  "sha": "df6e5220ba9ab0c533c5e775bcceb5d2117804db",
+  "node_id": "C_kwDOVc16INoAKGRmNmU1MjIwYmE5YWIwYzUzM2M1ZTc3NWJjY2ViNWQyMTE3ODA0ZGI",
+  "url": "https://api.github.com/repos/huyyhung05/CNTT1_Nhap-mon-CNTT_Hackathon01/git/commits/df6e5220ba9ab0c533c5e775bcceb5d2117804db",
+  "html_url": "https://github.com/huyyhung05/CNTT1_Nhap-mon-CNTT_Hackathon01/commit/df6e5220ba9ab0c533c5e775bcceb5d2117804db",
+  "author": {
+    "name": "Phan Hung",
+    "email": "phanhung110605@gmail.com",
+    "date": "2026-10-28T01:53:40Z"
+  },
+  "committer": {
+    "name": "Phan Hung",
+    "email": "phanhung110605@gmail.com",
+    "date": "2026-10-28T01:53:40Z"
+  },
+  "tree": {
+    "sha": "4b825dc642cb6eb9a060e54bf8d69288fbee4904",
+    "url": "https://api.github.com/repos/huyyhung05/CNTT1_Nhap-mon-CNTT_Hackathon01/git/trees/4b825dc642cb6eb9a060e54bf8d69288fbee4904"
+  },
+  "message": "First",
+  "parents": [
+
+  ],
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null,
+    "verified_at": null
+  }
+}
